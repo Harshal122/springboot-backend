@@ -18,6 +18,8 @@
       <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
       <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
       <sonar.language>java</sonar.language>
+      <sonar.organization>harshal122</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
    </properties>
    <dependencies>
       <dependency>
